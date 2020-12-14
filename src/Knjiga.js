@@ -19,9 +19,9 @@ const Knjiga = (props) => {
  <h3 onMouseOver={()=>console.log(naslov) }>{naslov}</h3>
  <h5>{autor}</h5>
 
-<button className='batn' type='button' onClick={klik}>hajklikni</button>
+<button className='batn' type='button' onClick={klik}>Hajklikni</button>
 
-<button type='button' onClick={() => complexan(autor)}>haj klikni da vidis u konzoli</button>
+<button type='button' onClick={() => complexan(autor)}>Haj klikni da vidis u konzoli</button>
 
    </article>
 
