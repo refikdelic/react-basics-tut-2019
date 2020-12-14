@@ -17,4 +17,4 @@
  naslov: 'Sigh, Gone: A Misfits',
  autor: 'Phuc Tran'
 }
-];
+]

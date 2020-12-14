@@ -27,7 +27,7 @@ ReactDOM.render(<PopisKnjiga/>, document.getElementById('root'))
 
 
 
-// stari kod, previse se povaljaju stvari
+// stari kod, previse se povaljaju stvar
 
 
 
