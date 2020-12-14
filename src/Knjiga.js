@@ -21,7 +21,7 @@ const Knjiga = (props) => {
 
 <button className='batn' type='button' onClick={klik}>hajklikni</button>
 
-<button type='button' onClick={() => complexan(autor)}>malo komplesniji gumbic</button>
+<button type='button' onClick={() => complexan(autor)}>haj klikni da vidis u konzoli</button>
 
    </article>
 
